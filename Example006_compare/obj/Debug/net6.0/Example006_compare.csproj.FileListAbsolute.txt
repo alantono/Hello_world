@@ -1,0 +1,16 @@
+C:\Users\anton\Example\Example006_compare\bin\Debug\net6.0\Example006_compare.exe
+C:\Users\anton\Example\Example006_compare\bin\Debug\net6.0\Example006_compare.deps.json
+C:\Users\anton\Example\Example006_compare\bin\Debug\net6.0\Example006_compare.runtimeconfig.json
+C:\Users\anton\Example\Example006_compare\bin\Debug\net6.0\Example006_compare.dll
+C:\Users\anton\Example\Example006_compare\bin\Debug\net6.0\ref\Example006_compare.dll
+C:\Users\anton\Example\Example006_compare\bin\Debug\net6.0\Example006_compare.pdb
+C:\Users\anton\Example\Example006_compare\obj\Debug\net6.0\Example006_compare.GlobalUsings.g.cs
+C:\Users\anton\Example\Example006_compare\obj\Debug\net6.0\Example006_compare.csproj.AssemblyReference.cache
+C:\Users\anton\Example\Example006_compare\obj\Debug\net6.0\Example006_compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Example\Example006_compare\obj\Debug\net6.0\Example006_compare.AssemblyInfoInputs.cache
+C:\Users\anton\Example\Example006_compare\obj\Debug\net6.0\Example006_compare.AssemblyInfo.cs
+C:\Users\anton\Example\Example006_compare\obj\Debug\net6.0\Example006_compare.csproj.CoreCompileInputs.cache
+C:\Users\anton\Example\Example006_compare\obj\Debug\net6.0\Example006_compare.dll
+C:\Users\anton\Example\Example006_compare\obj\Debug\net6.0\ref\Example006_compare.dll
+C:\Users\anton\Example\Example006_compare\obj\Debug\net6.0\Example006_compare.pdb
+C:\Users\anton\Example\Example006_compare\obj\Debug\net6.0\Example006_compare.genruntimeconfig.cache
